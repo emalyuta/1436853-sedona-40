@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Евгений Малюта](https://up.htmlacademy.ru/htmlcss/40/user/1436853).
-* Наставник: `Неизвестно`.
+* Наставник: [Виктор Рыбаков](https://htmlacademy.ru/profile/viktor-rybakov).
 
 ---
 
