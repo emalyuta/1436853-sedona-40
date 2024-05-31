@@ -2,6 +2,7 @@
 
 * Студент: [Евгений Малюта](https://up.htmlacademy.ru/htmlcss/40/user/1436853).
 * Наставник: [Виктор Рыбаков](https://htmlacademy.ru/profile/viktor-rybakov).
+* Сайт: [Проект Седона](https://emalyuta.github.io/1436853-sedona-40/).
 
 ---
 
